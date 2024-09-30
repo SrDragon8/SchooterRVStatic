@@ -3,7 +3,12 @@ guid: 0770eed6c3f2a7c49ad78f4835c354be
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reactor_Brillante
+    second: {fileID: 2100000, guid: bf2f10879791afc4fac61eb4c99dc77f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
